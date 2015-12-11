@@ -1,23 +1,24 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AppIntro-green.svg?style=flat)](https://android-arsenal.com/details/3/1997)  
 
 [![Android Gems](http://www.android-gems.com/badge/matrixxun/ProductTour.svg?branch=master)](http://www.android-gems.com/lib/matrixxun/ProductTour)
-# ProductTour
-ProductTour is android sample project implementing a **parallax effect** welcome page using **PageTransformer**, similar to the one found in  google's app like **Sheet, Drive...**
-## ProductTour Screen Capture
+# 产品演示
+ProductTour的是Android示例项目实施a 使用PageTransformer，一个类似于谷歌的应用
+**parallax effect** welcome page using **PageTransformer**, similar to the one found in  google's app like **Sheet, Drive...**
+## ProductTour屏幕捕获
 <img src="https://github.com/matrixxun/ProductTour/blob/master/art/run.gif" width="300"><img src="https://github.com/matrixxun/ProductTour/blob/master/art/run3.gif" width="300">
-## Support Tablet and Android 2.3+
+##支持平板电脑和Android 2.3+ Support Tablet and Android 2.3+
 <img src="https://github.com/matrixxun/ProductTour/blob/master/art/api_10.png" width="300"><img src="https://github.com/matrixxun/ProductTour/blob/master/art/tablet.png" height="280">
 
-## Google's Drive Screen Capture
+## 谷歌的驱动器屏幕捕获
 <img src="https://github.com/matrixxun/ProductTour/blob/master/art/driver.gif" width="300">
 
 ## Compat
-API level 9+ supported
+API级别9+支持
 
-## Example
-See example code here on Github. You can also see it live downloading [this apk](https://github.com/matrixxun/ProductTour/raw/master/app/app-debug.apk)
+## 例
+看到这里Github上的示例代码。您还可以看到直播下载此APK [this apk](https://github.com/matrixxun/ProductTour/raw/master/app/app-debug.apk)
 
-License
+许可
 --------
 
 
